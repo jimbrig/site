@@ -2,7 +2,7 @@ repo_name: jimbrig/site
 report_id: 9d2e226cb2edeec87e4df9fbadfa70b9
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:28:27+00:00'
+timestamp: '2024-02-29T18:58:44+00:00'
 requested_by: shuding
 provider: github
 branch: master
@@ -30,7 +30,7 @@ tools:
   detection_source_url: https://github.com/jimbrig/site
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 11.0.1
   open_source: true
